@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pushan Sinha
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ML and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@instagram.com/pushansinhaa
+- 👀 I’m interested in Cloud Based Software Solutions
+- 🌱 I’m currently learning Backend Engineering
+- 💞️ I’m looking to collaborate on anything that will have a psoitive impact on the mankind
+- 📫 How to reach me ...@instagram.com/alienated_brainn
 
 <!---
 programm3d/programm3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
