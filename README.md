@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pushan Sinha
 - 👀 I’m interested in AI Based Software Solutions
-- 🌱 I’m currently learning Backend Engineering
+- 🌱 I’m currently learning Frontend Engineering
 - 💞️ I’m looking to collaborate on anything that will have a psoitive impact on the mankind
-- 📫 How to reach me ...@instagram.com/alienated_brainn
+- 📫 How to reach me ...@instagram.com/pushansinhaa
 
 <!---
 programm3d/programm3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
