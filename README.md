@@ -12,7 +12,7 @@ I'm a Software Development Engineer. I work on modern AI-powered systems, full-s
 
 My journey started with web development, evolved through data science and machine learning, and eventually led into Generative AI, Retrieval-Augmented Generation (RAG), intelligent automation, and SaaS product development.
 
-In June 2023, in my 2nd year of BCA, I entered the software industry. Since then, I've worked across startups, enterprise solutions, AI systems, business development, and product strategy.
+In 2023, in my 2nd year of BCA, I entered the software industry. Since then, I've worked across startups, enterprise solutions, AI systems, business development, and product strategy.
 
 Alongside engineering, I have experience identifying opportunities, engaging decision makers, and closing enterprise clients, giving me a perspective that extends beyond code.
 
